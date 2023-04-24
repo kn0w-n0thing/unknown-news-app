@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "ofxTrueTypeFontUC.h"
+#include "addon/ofxTrueTypeFontUC.h"
 
 class ofxFontAligner {
     
